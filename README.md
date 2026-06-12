@@ -1,4 +1,4 @@
-# ApexPlanet Internship 
+# 🚀 ApexPlanet Internship 
 
 
 ## Task 1
@@ -98,7 +98,7 @@ project-folder/
 
 
 
-# 🚀 ApexPlanet Internship - Task 2
+## Task 2
 
 ## Interactive Web Components Using JavaScript
 
