@@ -190,6 +190,151 @@ project-folder/
 ```
 
 
+# 🚀 Task 3
+
+## API Integration & Mini Applications
+
+This project was developed as part of **Task 3** of the ApexPlanet Web Development Internship. The objective was to integrate external APIs and build interactive mini applications using JavaScript.
+
+---
+
+## 📌 Project Overview
+
+In this task, two interactive applications were integrated into the website:
+
+### 🌦 Weather Application
+
+A weather forecasting application that allows users to search for any city and view real-time weather information.
+
+### 📝 Todo List Application
+
+A task management application that allows users to create, manage, and track daily tasks with data persistence using Local Storage.
+
+---
+
+## ✨ Features Implemented
+
+### 🌦 Weather App
+
+- Search weather by city name
+- Real-time weather data using Open-Meteo API
+- Temperature display
+- Humidity display
+- Wind speed display
+- Invalid city handling
+- Last searched city saved using Local Storage
+- Responsive design
+
+### 📝 Todo App
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks (All / Active / Completed)
+- Local Storage support
+- Persistent task management
+- Responsive user interface
+
+### 🎨 Additional Features
+
+- Dark / Light Mode Toggle
+- Responsive Navigation Menu
+- Smooth User Experience
+- Mobile Friendly Design
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Open-Meteo API
+- Local Storage API
+- Flexbox
+- CSS Grid
+
+---
+
+## 📂 Folder Structure
+
+```text
+project-folder/
+│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── script.js
+│   ├── weather.js
+│   └── todo.js
+│
+└── README.md
+```
+
+---
+
+## 🌦 Weather API Used
+
+### Open-Meteo Weather API
+
+Features:
+
+- City Search
+- Temperature Data
+- Humidity Data
+- Wind Speed Data
+- Geolocation Support
+
+---
+
+## 📝 Todo Application Features
+
+- Add Tasks
+- Delete Tasks
+- Mark Complete
+- Task Persistence
+- Local Storage Integration
+- Dynamic Rendering
+
+---
+
+## 📱 Responsive Design
+
+The website is fully responsive and optimized for:
+
+- Desktop Devices
+- Tablets
+- Mobile Phones
+
+---
+
+## 🎯 Internship Requirements Covered
+
+✔ API Integration
+
+✔ Weather Application
+
+✔ Todo List Application
+
+✔ Local Storage Usage
+
+✔ DOM Manipulation
+
+✔ Event Handling
+
+✔ Responsive Design
+
+✔ JavaScript Functionality
+
+---
+
+
 ---
 
 ## How to Run
@@ -197,9 +342,37 @@ project-folder/
 1. Download or Clone the repository.
 
 ```bash
-git clone https://github.com/AkashGautam-27/apex-planet-internship.git
+git clone https://github.com/AkashGautam-27/apex-planet-internship-task2.git
 ``` 
 
 2. Open the project folder.
 
 3. Open index.html in your browser or run using Live Server.
+
+
+
+
+## 📚 Learning Outcomes
+
+Through this task, I learned:
+
+- API Integration
+- Fetch API
+- Async/Await
+- Local Storage
+- DOM Manipulation
+- Event Handling
+- JavaScript Application Development
+- Responsive Web Design
+
+---
+
+## 👨‍💻 Author
+
+**Akash Gautam**
+
+GitHub: https://github.com/AkashGautam-27
+
+LinkedIn: https://linkedin.com/in/akash-gautam-18933a3a3
+
+---
